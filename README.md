@@ -1,2 +1,1 @@
-# dework
-Github ft. Dework Integration
+# Dürüm DAO ft. Dework
